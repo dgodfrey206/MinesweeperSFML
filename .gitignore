@@ -1,0 +1,30 @@
+# Git ignore - C++ - Mateusz Gorka
+
+# Compiled files
+*.o
+*.obj
+*.lo
+*.slo
+*/obj
+
+# IDE
+.vscode
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Documentation
+/doc/*.dia
+/docs
+
+# Others file
+*.zip
+*~
+
+# Temporary or local
+**/_tmp**
+**/_local**
+
+# Input, output data
